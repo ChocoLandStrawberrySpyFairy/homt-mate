@@ -24,3 +24,6 @@ WebRTC를 통해 전달받은 frame을 OpenCV가 처리하여 Mediaipipe를 사�
 |pages/4_🔹_Side_Leteral_Raise.py |사이드레터럴레이즈 카운팅 페이지  | ✅ 완료     |
 |pages/5_🔹_Crunch.py             | 크런치 카운팅 페이지           | ✅ 완료     |
 
+
+## 블로그
+제 블로그에 [시연동영상과 관련 자료](https://chocolatebuff.tistory.com/15)가 있습니다. 참고하세요!
